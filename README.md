@@ -27,7 +27,7 @@
 
 
 
-## 5 .  Command for the Setup or Configuration
+## 5 .  Command for the Setup or Configuration:
 
 **Step 1  Update Your System**
 <div style="page-break-after: always"></div>
